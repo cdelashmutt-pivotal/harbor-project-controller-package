@@ -1,0 +1,9 @@
+#@data/values-schema
+---
+harbor:
+  #@schema/desc "Host name for the harbor service to manage."
+  hostname: harbor-core.tanzu-system-registry
+  #@schema/desc "Username of the robot account to use to manage projects."
+  username: robot$harbor-project-controller
+  #@schema/desc "Password of the robot account to use to manage projects."
+  password: cts8SgTjbFfGiGd50yeYNNz3mcbnbK1x

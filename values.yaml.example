@@ -1,0 +1,4 @@
+harbor:
+  hostname: harbor-core.tanzu-system-registry
+  username: robot$harbor-project-controller
+  password: cts8SgTjbFfGiGd50yeYNNz3mcbnbK1x
